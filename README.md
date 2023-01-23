@@ -1,10 +1,10 @@
 # WatuPos SDK
-##About
+## About
 Our Point of Sale (POS) SDK is a software development kit that allows developers to integrate POS functionality into their own applications. The SDK includes a variety of features and benefits that can help streamline and enhance the POS experience for businesses and customers alike.
 Functionalities:
-*Load configuration:  allows businesses to securely store and retrieve sensitive information, such as payment processing keys and credentials, within the SDK. This information is then used to process payments and access other features in the SDK
-*Purchase: allows businesses to process payments for goods and services. Supports a wide range of payment types, such as debit cards and USSD
-*Real-time updates: The balance enquiry functionality can retrieve the balance information in real-time, so customers always have the most up-to-date information.
+* Load configuration:  allows businesses to securely store and retrieve sensitive information, such as payment processing keys and credentials, within the SDK. This information is then used to process payments and access other features in the SDK
+* Purchase: allows businesses to process payments for goods and services. Supports a wide range of payment types, such as debit cards and USSD
+* Real-time updates: The balance enquiry functionality can retrieve the balance information in real-time, so customers always have the most up-to-date information.
 
 
 
