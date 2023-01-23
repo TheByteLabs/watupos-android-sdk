@@ -68,8 +68,8 @@ Here is a sample of the response object
 
 ## RESPONSE CODES
 
-00 - Approved or completed successfully
-01 - Refer to card issuer
+* 00 - Approved or completed successfully
+* 01 - Refer to card issuer
 02 - Refer to card issuer's special conditions
 03 - Invalid merchant
 04 - Pick-up
